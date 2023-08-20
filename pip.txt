@@ -1,6 +1,11 @@
 1. pip install pangocffi
 
-2.
+2. 
+
+//para ejecutar el proyecto
+1. cd PuntoVenta
+2. python manage.py runserver
+
 
 
 
