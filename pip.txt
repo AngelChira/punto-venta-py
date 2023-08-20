@@ -1,0 +1,16 @@
+1. pip install pangocffi
+
+2.
+
+
+
+
+
+
+
+
+
+
+
+
+
